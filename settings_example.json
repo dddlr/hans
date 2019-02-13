@@ -1,0 +1,7 @@
+{
+  "token": "TOKEN_HERE",
+  "directory": "./commands/",
+  "color": "0xFF884D",
+  "prefix": "$",
+  "owner": "USER_ID_HERE"
+}

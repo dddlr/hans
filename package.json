@@ -1,0 +1,12 @@
+{
+  "name": "hans",
+  "version": "0.0.1",
+  "description": "A Discord bot that converts from Traditional to Simplified Chinese, and vice versa.",
+  "main": "index.js",
+  "author": "blep",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-opencc": "^2.0.1",
+    "traditional-or-simplified": "^1.0.3"
+  }
+}
